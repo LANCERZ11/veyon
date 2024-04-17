@@ -1,0 +1,4 @@
+int a = ConvertToInt32(Console.ReadLine());
+int b = ConvertToInt32(Console.ReadLine());
+Console.WriteLine();
+Я добавил новый файл
